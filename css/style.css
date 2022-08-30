@@ -10,8 +10,8 @@
 
 :root{
 	--bg-color: #000000;
-	--text-color: rgb(161, 155, 155);
-	--main-color: #6a0c0c;
+	--text-color: rgb(117, 5, 5);
+	--main-color: #fdfdfd;
 	--second-color: gray;
 	--other-color: #12141c;
 	--h1-font: 5.2rem;
@@ -71,7 +71,7 @@ section{
 	height: 100vh;
 	width: 100%;
 	position: relative;
-	background: url(http://covercdn.complex.com/56df0a24305b8625576a7fd3_production/aprmay16-zayn1-vn2.jpg);
+	background: url(https://i.ibb.co/8c2PDZT/1661104204507-03.png);
 	background-size: cover;
 	background-position: center;
 	display: flex;
@@ -84,6 +84,7 @@ section{
 	font-weight: bold;
 	line-height: 1.1;
 	letter-spacing: 2px;
+	font-size: 15px;
 }
 span{
 	color: var(--main-color);
@@ -97,6 +98,7 @@ span{
 	font-size: 24px;
 	font-weight: 600;
 	margin-bottom: 3rem;
+	font-size: 15px;
 }
 .btn{
 	display: inline-block;
